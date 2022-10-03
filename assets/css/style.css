@@ -23,8 +23,9 @@ body {
 }
 
 /* Changes colour of 'seo' in header */
-.header h1 .seo {
+.seo {
     color: #d9dcd6;
+    background-color: #2a607c;
 }
 
 .nav {
@@ -62,22 +63,13 @@ p {
     position: relative;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*  */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,6 +78,7 @@ p {
     width: 20%;
     height: 100%;
     background-color: #2589bd;
+    
 }
 
 .benefit-lead {
@@ -172,6 +165,16 @@ p {
     max-height: 200px;
 }
 
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -196,3 +199,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
