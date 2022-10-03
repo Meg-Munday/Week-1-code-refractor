@@ -17,7 +17,7 @@ This project was an opportunity to put into practice using HTML elements and CSS
 
 ## Installation
 
-This project does not need to be installed. 
+This project does not need to be installed. It can be accessed ![via GitHub pages](https://meg-munday.github.io/Week-1-code-refractor/)
 
 ## Usage
 
